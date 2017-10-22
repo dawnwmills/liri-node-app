@@ -23,7 +23,7 @@ Node packages used to extract data passed to it from the command line and consol
 	* Actors
 	* Rotten Tomatoes Rating
 
-# Stack Used
+## Stack Used
 * Javascript
 * JQuery
 * Node Packages
